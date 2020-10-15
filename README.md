@@ -9,8 +9,10 @@
 - git add remote origin <URL>
 - git push -u origin master
 - git branch #list my branchs
-- git branch refactory #create a branch
+- git branch refactory #create a branch with name: refactory
 - git checkout refactory #switchig of branch
+- git checkout -b refactory #Create a branch and do switching
+- git branch -M <NEW_NAME> #rename branch
 - git remote # list origins
 - git log # list commits and push
 - git merge NAME_BRANCH # join updates of the branchs
